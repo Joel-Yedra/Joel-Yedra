@@ -65,4 +65,4 @@ collaborate in multidisciplinary environments, and be committed to continuous le
 <!-- Tarjeta de lenguajes más usados -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joel-Yedra&show_icons=true&theme=dark&locale=en&layout=compact" alt="Joel-Yedra" /></p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
