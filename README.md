@@ -45,7 +45,7 @@ collaborate in multidisciplinary environments, and be committed to continuous le
 
 ---
 
-##  ✨GitHub Stats
+##  🚀 GitHub Stats
 
 <table>
   <tr>
